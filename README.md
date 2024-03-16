@@ -1,5 +1,7 @@
-"# smoke_prediction"
+<img src="https://t3.ftcdn.net/jpg/07/07/05/36/360_F_707053629_ZBEe0ujcsuvX9VtyM8UuOOHfImjuicJP.jpg">
 
+<div align='left'><strong><em> ML Kaggle Olympiad | Smoking Detection in Patients </em></strong>
+  
 ##### **Overview**
 
 It's widely recognized that smoking detrimentally impacts health, affecting nearly every bodily organ, leading to numerous diseases, and shortening the lifespan of smokers. By 2018, it emerged as the foremost cause of preventable deaths and illnesses globally, posing a significant challenge to global health.
